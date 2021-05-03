@@ -1,1 +1,1 @@
-Desafios que realizei, propostos no canal do Curso em Vídeo de HTML e CSS do professor Guanabara
+Desafios que realizei, propostos no curso de HTML e CSS do site Curso Em Vídeo pelo professor Gustavo Guanabara.
